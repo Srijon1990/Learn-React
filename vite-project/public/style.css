@@ -1,0 +1,17 @@
+.headingStyle{
+    background-color:green;
+    color: white;
+    text-align: center;
+
+}
+
+.btn{
+  margin-top: 50px;  
+  padding: 0,50%;
+  background-color: skyblue;
+}
+
+.para{
+    height: 500px;
+    width: 500px;
+}
